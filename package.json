@@ -2,7 +2,7 @@
   "name": "quizmaker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/juancocina/codebros-quizapp",
+  "homepage": "https://juancocina.github.com/codebros-quizapp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
