@@ -3,7 +3,7 @@ import './App.css'
 import Home from './screens/HomeScreen'
 import HighScores from './screens/HighScoresScreen'
 import Game from './screens/GameScreen'
-import { Route, BrowserRouter as Router } from 'react-router-dom'
+import { HashRouter as Router, Route } from 'react-router-dom'
 
 function App() {
   return (
