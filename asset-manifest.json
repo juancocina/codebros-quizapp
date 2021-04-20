@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codebros-quizapp/static/css/main.31a49ce7.chunk.css",
-    "main.js": "/codebros-quizapp/static/js/main.428d02a5.chunk.js",
-    "main.js.map": "/codebros-quizapp/static/js/main.428d02a5.chunk.js.map",
+    "main.js": "/codebros-quizapp/static/js/main.2993553b.chunk.js",
+    "main.js.map": "/codebros-quizapp/static/js/main.2993553b.chunk.js.map",
     "runtime-main.js": "/codebros-quizapp/static/js/runtime-main.29c0e4fd.js",
     "runtime-main.js.map": "/codebros-quizapp/static/js/runtime-main.29c0e4fd.js.map",
     "static/js/2.641e86d6.chunk.js": "/codebros-quizapp/static/js/2.641e86d6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.29c0e4fd.js",
     "static/js/2.641e86d6.chunk.js",
     "static/css/main.31a49ce7.chunk.css",
-    "static/js/main.428d02a5.chunk.js"
+    "static/js/main.2993553b.chunk.js"
   ]
 }
