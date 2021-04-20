@@ -1,0 +1,11 @@
+.container--categories .btn {
+  margin: 2rem;
+}
+
+.backButton {
+  margin-top: 15rem;
+}
+.backButton .btn {
+  width: 120rem;
+  padding: 1rem 6rem;
+}

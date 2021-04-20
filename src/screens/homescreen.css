@@ -1,0 +1,22 @@
+  .homemain {
+  width: auto;
+  padding: 10px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.homemain h1 {
+  font-family: 'Roboto';
+  src: url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
+  padding-bottom: 25px;
+}
+
+.homemain .btn {
+  padding: 12px;
+  background-color: var(--mainColor);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

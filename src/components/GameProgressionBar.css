@@ -1,0 +1,12 @@
+#progressionBar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid var(--mainColor);
+    margin-top: 1.5rem;
+  }
+  
+  #progressionBarFull {
+    height: 3.4rem;
+    background-color: var(--mainColor);
+    width: 0%;
+  }

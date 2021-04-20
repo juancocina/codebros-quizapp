@@ -1,0 +1,13 @@
+#gamehud {
+  display: flex;
+  justify-content: space-between;
+}
+
+.gamehud-item .prefix {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.gamehud-main-text {
+  text-align: center;
+}
